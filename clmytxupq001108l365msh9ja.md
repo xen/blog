@@ -2,8 +2,8 @@
 title: "Правила именования таблиц и полей в базах данных"
 datePublished: Mon Sep 25 2023 11:53:15 GMT+0000 (Coordinated Universal Time)
 cuid: clmytxupq001108l365msh9ja
-slug: pravila-imenovaniya-tablic-i-polej-v-bazah-dannyh
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1695642762572/2d373e5f-de70-47f0-b160-8b2129115913.avif
+slug: sql-guide-ru
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1695642886163/327c3add-718f-4e1b-95da-ec7716a99613.jpeg
 tags: sql, guide, guidelines
 
 ---
